@@ -40,6 +40,7 @@ Books about Nodejs, Angular2, Agile, Clean Code, Docker, Golang, Microservices, 
 | dev-ops/k8s | [Kubernetes Microservices with Docker.pdf](dev-ops/kubernetes/kubernetes-microservices-with-docker.pdf)
 | dev-ops/k8s | [Kubernetes Up & Running](dev-ops/kubernetes/kubernetes-up-running.pdf)
 | dev-ops/k8s | [Mastering kubernetes.pdf](dev-ops/kubernetes/mastering-kubernetes.pdf)
+| dev-ops/k8s | [Kubernetes in Action.pdf](dev-ops/kubernetes/Kubernetes in Action.pdf)
 | dev-ops/terraform | [Terraform Up and Running.pdf](dev-ops/terraform/terraform-up-and-running.pdf)
 | dev-ops/terraform | [Getting Started Terraform 2nd.epub](dev-ops/terraform/getting-started-terraform-2nd.epub)
 | dev-ops/terraform | [Infrastructure as code IAC Cookbook.pdf](dev-ops/terraform/infrastructure-as-code-iac-cookbook.pdf)
